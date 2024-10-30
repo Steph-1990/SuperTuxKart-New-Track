@@ -1,0 +1,11 @@
+<?xml version="1.0"?> encoding="utf-8"?>
+<graph>
+  <!-- First define all nodes of the graph, and what quads they represent -->
+  <node-list from-quad="0" to-quad="875"/>  <!-- map each quad to a node  -->
+  <!-- Define the main loop -->
+  <edge-loop from="0" to="827"/>
+  <!-- Shortcut Plane -->
+  <edge from="753" to="828"/>
+  <edge-line from="828" to="875"/>
+  <edge from="875" to="814"/>
+</graph>
